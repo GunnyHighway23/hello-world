@@ -1,2 +1,4 @@
 # hello-world
 Initial Repository
+Hailing Frequencies open! 
+I am a newcommer to GitHub and an I.T. professional. I work for a state entity, and have an undergraduate degree. This is my fourth or fifth backup career. After spending a decade in the US Marine Corps, I was injured by an IED in Iraq. I was told that I would need to become a civilian. Although I was hesitant (and still am) I am hoping to make myself useful and provide for my family in my new profession. Software development is an area of I.T. that really interests me....although at first, I thought to myself: "if this was my job, I'd suck-start a shotgun!" Now, I am much more interested in this field, as well as cybersecurity. I hope to contribute to this community, as well as gain some valuable knowledge. I may update this in the future, but for now....Semper Fi. 
